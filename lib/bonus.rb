@@ -41,7 +41,7 @@ def bonus
       :age => "15",
       :status => "alive"
     },
-    :heroine_friends=> [
+    :heroine_friends => [
       {
         :name => "Steven",
         :age => "30",
