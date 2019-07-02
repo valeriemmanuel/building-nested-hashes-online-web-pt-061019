@@ -12,7 +12,7 @@ def bonus
     :hero => {
       :name => "Romeo",
       :age => "15",
-      :status => "dead"
+      :status => "alive"
   },
     :hero_friends => [
       {
@@ -39,7 +39,7 @@ def bonus
     :heroine => {
       :name => "Juliet",
       :age => "15",
-      :status => "dead"
+      :status => "alive"
     },
     :heroine_friends=> [
       {
